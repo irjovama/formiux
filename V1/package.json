@@ -1,9 +1,9 @@
 {
   "name": "formiux",
   "private": false,
-  "version": "1.0.2",
+  "version": "1.0.5",
   "type": "module",
-  "module": "dist/index.js",
+  "module": "dist/index.jsx",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -25,7 +25,7 @@
     "vite": "^4.3.9"
   },
   "description": "easy form handler",
-  "main": "src/index.js",
+  "main": "src/index.jsx",
   "keywords": [
     "form"
   ],
