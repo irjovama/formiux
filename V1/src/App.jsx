@@ -30,5 +30,4 @@ function App() {
   )
 }
 
-export default Formiux;
-export {Validations} ;
+export default App;
